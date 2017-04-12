@@ -7,7 +7,7 @@
 Python 3 버전으로 제작되었습니다. (Window 에서 정상적인 실행 확인)
 
 
-	C:\Users\rhdwk\Documents\Kkutu-helper>helper.py
+	C:\root>helper.py
 	
 	데이터를 성공적으로 불러왔습니다.
 	
