@@ -1,2 +1,49 @@
 # Kkutu-helper
-Kkutu ì˜¨ë¼ì¸ì—ì„œ ì“¸ ìˆ˜ ìžˆëŠ” í—¬í¼ìž…ë‹ˆë‹¤.
+²ôÅõ ¿Â¶óÀÎ¿¡¼­ »ç¿ëÇÏ½Ç ¼ö ÀÖ´Â ´Ü¾îÀå ÇïÆÛÀÔ´Ï´Ù.
+(http://kkutu.co.kr/)
+
+###»ç¿ë¹ý
+
+Python 3 ¹öÀüÀ¸·Î Á¦ÀÛµÇ¾ú½À´Ï´Ù. (Window ¿¡¼­ Á¤»óÀûÀÎ ½ÇÇà È®ÀÎ)
+
+
+	C:\Users\rhdwk\Documents\Kkutu-helper>helper.py
+	
+	µ¥ÀÌÅÍ¸¦ ¼º°øÀûÀ¸·Î ºÒ·¯¿Ô½À´Ï´Ù.
+	
+	¿øÇÏ´Â ´Ü¾î¸¦ ¾ò±â À§ÇØ¼­ ÇÊÅÍ¸¦ ¼³Á¤ÇØÁÖ¼¼¿ä!
+	
+	-----------------------------------
+	
+	1. Ã£À» ¼ö ÀÖ´Â ´Ü¾î Áß °¡Àå ±ä ´Ü¾î Ã£±â / ¹Þ¾ÆÄ¡±â Èûµç ´Ü¾î ¼ø¼­´ë·Î Ã£±â
+	
+	2. Àå¸£ ÇÊÅÍ ÄÑ±â
+	
+	
+	0. ¿É¼Ç ¼±ÅÃ Á¾·á
+	
+	-----------------------------------
+	
+	ÇÊÅÍ: ±ä ´Ü¾î ¼ø¼­
+	
+	Àå¸£ ÇÊÅÍ: None!
+	
+	¿É¼ÇÀ» ¼±ÅÃÇØÁÖ¼¼¿ä!:
+
+Æ¯Á¤ Àå¸£¿¡ ÀÖ´Â ´Ü¾î¸¸ ¼±ÅÃÇÏ¿© ÇÊÅÍ¸µÇÒ ¼ö ÀÖÀ¸¸ç,
+±ä ´Ü¾î ¼ø¼­ È¤Àº ¹Þ¾ÆÄ¡±â Èûµç ´Ü¾î ¼ø¼­´ë·Î °¡Á®¿Ã ¼ö ÀÖ½À´Ï´Ù.
+
+´Ü¾î ÃâÃ³:
+
+±¹¸³±¹¾î¿ø ¾ð¾îÁ¤º¸³ª´®ÅÍ
+
+   *[³ª¹«À§Å° - ¶óÀÌÆ® ³ëº§](https://namu.wiki/w/¶óÀÌÆ® ³ëº§)
+   *[³ª¹«À§Å° - ÀÏº» ¾Ö´Ï¸ÞÀÌ¼Ç](https://namu.wiki/w/ÀÏº» ¾Ö´Ï¸ÞÀÌ¼Ç)
+   *[³ª¹«À§Å° - ¿ª °ü·Ã Á¤º¸](https://namu.wiki/w/¿ª °ü·Ã Á¤º¸)
+   *[³ª¹«À§Å° - ¸ÞÀÌÇÃ½ºÅä¸®/ÀÏ¹Ý ¸ó½ºÅÍ](https://namu.wiki/w/¸ÞÀÌÇÃ½ºÅä¸®/ÀÏ¹Ý ¸ó½ºÅÍ)
+
+Helper ´Ü¾îÀå ÆÄÀÏÀº ¾Æ·¡ ¸µÅ©¿¡ ÀÖ´Â ºÐÀÇ ±ê¿¡¼­ °¡Á®¿Ô½À´Ï´Ù.
+https://github.com/Namnamseo/kkutu-helper
+
+ÀÌ ¿Ü¿¡µµ ²ôÅõ ´Ü¾î ¾÷µ¥ÀÌÆ® (2017.04.11)¿¡¼­ Ãß°¡µÈ ´Ü¾î ¸î °³µµ ¼±º°ÇÏ¿©
+Á÷Á¢ ³Ö¾ú½À´Ï´Ù.
